@@ -2,9 +2,9 @@
   <img src="./banner-github.png" width="100%">
 </div>
 
-👋 Olá! Eu sou Isabelle
+#👋 Olá! Eu sou Isabelle
 
-💻 Estudante de Desenvolvimento de Sistemas
+###💻 Estudante de Desenvolvimento de Sistemas
 
 Seja bem-vindo(a) ao meu perfil! 🖤💛
 
