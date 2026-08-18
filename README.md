@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./banner-github.png" width="100%">
+  <img src="github-header-banner.png" alt="Banner do perfil" width="100%">
 </div>
 
 #👋 Olá! Eu sou Isabelle
