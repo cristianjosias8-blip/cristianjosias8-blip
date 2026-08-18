@@ -63,33 +63,16 @@ Meu objetivo é continuar evoluindo na área de tecnologia, desenvolver projetos
 
 🚀 Aprender → Praticar → Criar → Evoluir
 
-⸻
 
 📊 GitHub
 
 <div align="center">
 </div>
 
-⸻
 
-🐍 Minhas contribuições
 
-<div align="center">
-</div>
 
-⸻
 
-🌐 Vamos nos conectar?
-
-<div align="center">
-<a href="https://github.com/cristianjosias8-blip">
-  <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=FFD500">
-</a>
-</div>
-
-⸻
-
-<div align="center">
 
 🖤💛 Obrigada por visitar meu perfil!
 
