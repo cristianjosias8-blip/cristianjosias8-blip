@@ -12,7 +12,6 @@ Sou estudante de Desenvolvimento de Sistemas e estou construindo minha jornada n
 
 Gosto de transformar ideias em projetos e estou sempre buscando aprender algo novo. 🚀
 
-⸻
 
 🖤💛 Sobre mim
 
@@ -23,14 +22,13 @@ Gosto de transformar ideias em projetos e estou sempre buscando aprender algo no
 * 🚀 Desenvolvendo projetos para colocar meus conhecimentos em prática
 * 📚 Sempre buscando evoluir e aprender novas tecnologias
 
-⸻
+
 
 🛠️ Tecnologias e ferramentas
 
 <div align="center">
 </div>
 
-⸻
 
 🚀 Projeto em destaque
 
@@ -48,7 +46,6 @@ No projeto estou trabalhando com:
 
 💡 Este projeto representa parte da minha evolução durante minha formação em Desenvolvimento de Sistemas.
 
-⸻
 
 📚 Atualmente aprendendo
 
@@ -59,7 +56,6 @@ No projeto estou trabalhando com:
 🎨 Interface e organização de projetos
 🧠 Lógica de Programação
 
-⸻
 
 🎯 Meus objetivos
 
