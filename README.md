@@ -2,12 +2,6 @@
   <img src="github-header-banner.png" alt="Banner do perfil" width="100%">
 </div>
 
-#👋 Olá! Eu sou Isabelle
-
-###💻 Estudante de Desenvolvimento de Sistemas
-
-Seja bem-vindo(a) ao meu perfil! 🖤💛
-
 <h2 data-importer="text" align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
 
 ###
