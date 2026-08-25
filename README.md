@@ -1,17 +1,17 @@
 <!-- BANNER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=FFD700&height=500&section=header&text=Olá,%20eu%20sou%20Isabelle!&fontSize=40&fontColor=000000&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=FFD700&height=100&section=header&text=Olá,%20eu%20sou%20Isabelle!&fontSize=40&fontColor=000000&animation=fadeIn" />
 </p>
 
 <!-- GIF -->
 <p align="center">
-  <img src="./img" width="500">
+  <img src="./img" width="300">
 </p>
 
 <h2 align="center">💛 Desenvolvedora em formação | 💻 Tecnologia | 🎨 Design</h2>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FFD700&center=true&vCenter=true&width=600&lines=Seja+bem-vindo(a)+ao+meu+GitHub!;Desenvolvimento+de+Sistemas+💻;Tecnologia+%26+Criatividade+💛;Sempre+aprendendo+algo+novo!+✨" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=300&size=22&pause=1000&color=FFD700&center=true&vCenter=true&width=600&lines=Seja+bem-vindo(a)+ao+meu+GitHub!;Desenvolvimento+de+Sistemas+💻;Tecnologia+%26+Criatividade+💛;Sempre+aprendendo+algo+novo!+✨" />
 </p>
 
 ---
