@@ -2,8 +2,8 @@
   <img src="./github-header-banner.png" alt="Banner do perfil" width="100%">
 </div>
 <h1 data-importer="text" align="center">👋🏻Olá seja bem vindo!
-*Estudante em desenvolvcimento de sistemas
-*Transformando ideias ejm projetos
+     /Estudante em desenvolvcimento de sistemas/
+Transformando ideias ejm projetos.
 </h1>
 
 ###
