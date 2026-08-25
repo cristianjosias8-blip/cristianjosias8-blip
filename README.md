@@ -64,7 +64,7 @@ Design     ████████████████░░
 <a href="https://cristianjosias8-blip">
 <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=FFD700">
 </a>
-<a href="https://www.instagram.com/SEUINSTAGRAM">
+<a href="https://www.instagram.com/isabelle_monique_pereira_">
 <img src="https://img.shields.io/badge/Instagram-FFD700?style=for-the-badge&logo=instagram&logoColor=000000">
 </a>
 </p>
