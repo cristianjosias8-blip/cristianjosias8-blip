@@ -5,7 +5,7 @@
 
 <!-- GIF -->
 <p align="center">
-  <img src="./Partículas no espaço sideral.jpg" width="350">
+  <img src="./img" width="500">
 </p>
 
 <h2 align="center">💛 Desenvolvedora em formação | 💻 Tecnologia | 🎨 Design</h2>
