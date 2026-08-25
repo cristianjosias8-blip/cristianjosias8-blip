@@ -5,7 +5,7 @@
 
 <!-- GIF -->
 <p align="center">
-  <img src="./img" width="900">
+  <img src="./img" width="700">
 </p>
 
 <h2 align="center">💛 Desenvolvedora em formação | 💻 Tecnologia | 🎨 Design</h2>
