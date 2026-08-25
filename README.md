@@ -41,7 +41,7 @@ Olá! Eu sou *Isabelle* 👋
 ## 📊 GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?usernamecristianjosias8-blip=&show_icons=true&theme=dark&title_color=FFD700&icon_color=FFD700&text_color=FFFFFF&border_color=FFD700" />
+  <img src=./download.gif-readme-stats.vercel.app/api?usernamecristianjosias8-blip=&show_icons=true&theme=dark&title_color=FFD700&icon_color=FFD700&text_color=FFFFFF&border_color=FFD700" />
 </p>
 
 <p align="center">
