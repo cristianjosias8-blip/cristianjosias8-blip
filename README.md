@@ -11,7 +11,7 @@
 <h2 align="center">💛 Desenvolvedora em formação | 💻 Tecnologia | 🎨 Design</h2>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=300&size=22&pause=1000&color=FFD700&center=true&vCenter=true&width=600&lines=Seja+bem-vindo(a)+ao+meu+GitHub!;Desenvolvimento+de+Sistemas+💻;Tecnologia+%26+Criatividade+💛;Sempre+aprendendo+algo+novo!+✨" />
+  <img src=./GIPHY.gif font=Fira+Code&weight=300&size=22&pause=1000&color=FFD700&center=true&vCenter=true&width=600&lines=Seja+bem-vindo(a)+ao+meu+GitHub!;Desenvolvimento+de+Sistemas+💻;Tecnologia+%26+Criatividade+💛;Sempre+aprendendo+algo+novo!+✨" />
 </p>
 
 ---
