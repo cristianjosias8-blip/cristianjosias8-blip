@@ -12,7 +12,7 @@ Transformando ideias ejm projetos.
 </h1>
 
 ###
-<img data-importer="image" align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+<img data-importer="image" align="right" height="150" src="https://pin.it/5RfRVSJwu"  />
 ###
 <div data-importer="techs" align="center">
   <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo"  />
