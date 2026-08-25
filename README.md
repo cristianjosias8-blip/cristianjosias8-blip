@@ -1,6 +1,6 @@
 <!-- BANNER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=FFD700&height=200&section=header&text=Olá,%20eu%20sou%20Isabelle!&fontSize=40&fontColor=000000&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=FFD700&height=500&section=header&text=Olá,%20eu%20sou%20Isabelle!&fontSize=40&fontColor=000000&animation=fadeIn" />
 </p>
 
 <!-- GIF -->
@@ -41,7 +41,7 @@ Olá! Eu sou *Isabelle* 👋
 ## 📊 GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SEUUSUARIO&show_icons=true&theme=dark&title_color=FFD700&icon_color=FFD700&text_color=FFFFFF&border_color=FFD700" />
+  <img src="https://github-readme-stats.vercel.app/api?usernamecristianjosias8-blip=&show_icons=true&theme=dark&title_color=FFD700&icon_color=FFD700&text_color=FFFFFF&border_color=FFD700" />
 </p>
 
 <p align="center">
