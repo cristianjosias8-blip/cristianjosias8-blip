@@ -1,6 +1,6 @@
 <!-- BANNER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=FFD700&height=200&section=header&text=Olá,%20eu%20sou%20Isabele!&fontSize=40&fontColor=000000&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=FFD700&height=200&section=header&text=Olá,%20eu%20sou%20Isabelle!&fontSize=40&fontColor=000000&animation=fadeIn" />
 </p>
 
 <!-- GIF -->
@@ -18,7 +18,7 @@
 
 ## 💛 Sobre mim
 
-Olá! Eu sou *Isabele* 👋
+Olá! Eu sou *Isabelle* 👋
 
 🎓 Estudante de *Desenvolvimento de Sistemas*  
 💻 Técnica em Informática  
@@ -61,7 +61,7 @@ MySQL      ██████████░░░░░░░░
 Git/GitHub ███████████████░░░
 Design     ████████████████░░
 <p align="center">
-<a href="https://github.com/SEUUSUARIO">
+<a href="https://cristianjosias8-blip">
 <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=FFD700">
 </a>
 <a href="https://www.instagram.com/SEUINSTAGRAM">
