@@ -1,67 +1,71 @@
-<div align="center">
-  <img src="./github-header-banner.png" alt="Banner do perfil" width="100%">
-  <div data-importer="border">
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=100&fontColor=FFFFFF00&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
-</div>
+<!-- BANNER -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=FFD700&height=200&section=header&text=Olá,%20eu%20sou%20Isabele!&fontSize=40&fontColor=000000&animation=fadeIn" />
+</p>
 
-###
-</div>
-<h1 data-importer="text" align="center">👋🏻Olá seja bem vindo!
-     /Estudante em desenvolvcimento de sistemas/
-Transformando ideias ejm projetos.
-</h1>
+<!-- GIF -->
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="350">
+</p>
 
-###
-<img data-importer="image" align="right" height="150" src="https://pin.it/5RfRVSJwu"  />
-###
-<div data-importer="techs" align="center">
-  <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nextjs" height="60" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="60" alt="storybook logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=graphql" height="60" alt="graphql logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=go" height="60" alt="go logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
-  <img width="12" />
+<h2 align="center">💛 Desenvolvedora em formação | 💻 Tecnologia | 🎨 Design</h2>
 
-</div>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FFD700&center=true&vCenter=true&width=600&lines=Seja+bem-vindo(a)+ao+meu+GitHub!;Desenvolvimento+de+Sistemas+💻;Tecnologia+%26+Criatividade+💛;Sempre+aprendendo+algo+novo!+✨" />
+</p>
 
-###
+---
 
+## 💛 Sobre mim
 
+Olá! Eu sou *Isabele* 👋
 
-### 🤖 Linguagens e Tecnologias
+🎓 Estudante de *Desenvolvimento de Sistemas*  
+💻 Técnica em Informática  
+🎨 Tenho conhecimento em Design Gráfico  
+🚀 Apaixonada por tecnologia e criatividade  
+📚 Sempre buscando aprender e evoluir
 
-<img 
-    align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="CSS" 
-    title="CSS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/>
+---
 
-###
+## 🛠️ Tecnologias
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,js,java,mysql,git,github,vscode" />
+
+</p>
+
+---
+
+## 📊 GitHub
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SEUUSUARIO&show_icons=true&theme=dark&title_color=FFD700&icon_color=FFD700&text_color=FFFFFF&border_color=FFD700" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SEUUSUARIO&theme=dark&ring=FFD700&fire=FFD700&currStreakLabel=FFD700" />
+</p>
+
+---
+
+## 💻 Meus conhecimentos
+
+```text
+HTML       ███████████████░░░
+CSS        ██████████████░░░░
+JavaScript ███████████░░░░░░░
+Java       ██████████░░░░░░░░
+MySQL      ██████████░░░░░░░░
+Git/GitHub ███████████████░░░
+Design     ████████████████░░
+<p align="center">
+<a href="https://github.com/SEUUSUARIO">
+<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=FFD700">
+</a>
+<a href="https://www.instagram.com/SEUINSTAGRAM">
+<img src="https://img.shields.io/badge/Instagram-FFD700?style=for-the-badge&logo=instagram&logoColor=000000">
+</a>
+</p>
 
