@@ -1,11 +1,11 @@
 <!-- BANNER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=FFD700&height=100&section=header&text=Olá,%20eu%20sou%20Isabelle!&fontSize=40&fontColor=000000&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=FFD700&height=300&section=header&text=Olá,%20eu%20sou%20Isabelle!&fontSize=40&fontColor=000000&animation=fadeIn" />
 </p>
 
 <!-- GIF -->
 <p align="center">
-  <img src="./img" width="300">
+  <img src="./img" width="600">
 </p>
 
 <h2 align="center">💛 Desenvolvedora em formação | 💻 Tecnologia | 🎨 Design</h2>
