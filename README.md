@@ -1,9 +1,13 @@
 <div align="center">
   <img src="./github-header-banner.png" alt="Banner do perfil" width="100%">
 </div>
-<h1 data-importer="text" align="center">👋🏻Olá seja bem vindo!</h1>
+<h1 data-importer="text" align="center">👋🏻Olá seja bem vindo!
+*Estudante em desenvolvcimento de sistemas
+*Transformando ideias ejm projetos
+</h1>
 
 ###
+
 
 <div data-importer="techs" align="center">
   <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo"  />
@@ -64,9 +68,6 @@
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
 />
-<img 
-    align="left" 
-    alt="TypeScript"
 
 ###
 
